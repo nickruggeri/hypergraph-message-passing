@@ -44,6 +44,9 @@ Nicolò Ruggeri*, Alessandro Lonardi*, and Caterina De Bacco<br/>
 [
         <a href="https://arxiv.org/abs/2312.00708" target="_blank">arXiv</a>
 ]
+[
+        <a href="https://iopscience.iop.org/article/10.1088/1742-5468/ad343b" target="_blank">Publication</a>
+]
 
 
 
